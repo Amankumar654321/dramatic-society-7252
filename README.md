@@ -119,6 +119,7 @@ Enter the  customer password:
 Duplicate entry '105' for key 'customer.PRIMARY'
 
 Want to register for customer yes or no
+
 yes
 
 Enter the  customer id:
@@ -141,6 +142,7 @@ Enter the  customer password:
 
 Customer inserted successfully !
 Want to register for customer yes or no
+
 no
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -172,6 +174,7 @@ Choose the options to continue-
 ================================*========================
 
 2
+
 Enter the Admin id
 119
 
@@ -231,6 +234,7 @@ Enter the password
 -----------------*-----------------------
 
 Welcome mohan
+
 Your id is 119
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -321,6 +325,7 @@ Choose the options to continue-
 ================================*==========================
 
 5
+
 The bus id is : 1
 
 The bus name is : Volvo
@@ -530,6 +535,7 @@ Choose the options to continue-
 ================================*==========================
 
 6
+
 Enter the Admin id to get the details of buses under him: 
 
 119
@@ -582,9 +588,11 @@ Choose the options to continue-
 ================================*==============
 
 7
+
 Want to book  tickets
 
 choose yes or no
+
 yes
 
 Enter the your customer id
@@ -597,6 +605,7 @@ The number of ticket u want to book
 20
 
 20 Ticket has been booked by customer id 115 and   Bus id is 119
+
 choose yes or no
 
 no
@@ -630,9 +639,11 @@ Choose the options to continue-
 ================================*==========================
 
 8
+
 Enter the customer id
 
 115
+
 The ticket details is 
 
 ========================================================
@@ -692,6 +703,7 @@ Choose the options to continue-
 ================================*==========================
 
 9
+
 Enter the number of ticket you want to book
 20
 
@@ -729,6 +741,7 @@ Choose the options to continue-
 ================================*==========================
 
 10
+
 Enter the customer id
 115
 
