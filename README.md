@@ -1,6 +1,10 @@
-# dramatic-society-7252
-Bus_Ticketing_Reservation_System
-# Tables that i have used in this application-
+# Project Code- dramatic-society-7252
+
+
+Project Name - Bus_Ticketing_Reservation_System
+==============================================
+
+# Tables that I have used in this application-
 
 create table Customer(
 cid int primary key,
