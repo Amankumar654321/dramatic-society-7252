@@ -63,6 +63,7 @@ foreign key(Tbid) references Bus(bid) on delete cascade
 # Output of the Application in the client Side------>
 
 Welcome to Bus Ticketing system
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
@@ -87,6 +88,7 @@ Choose the options to continue-
 10 Cancel the ticket 
 
 11 For Exit
+
 ================================*==============================
 
 1
@@ -140,6 +142,7 @@ Enter the  customer password:
 Customer inserted successfully !
 Want to register for customer yes or no
 no
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
@@ -165,6 +168,7 @@ Choose the options to continue-
 10 Cancel the ticket 
 
 11 For Exit
+
 ================================*========================
 
 2
@@ -181,6 +185,7 @@ Enter the Admin password
 123
 
 Admin inserted successfully !
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
@@ -206,6 +211,7 @@ Choose the options to continue-
 10 Cancel the ticket 
 
 11 For Exit
+
 ================================*=====================
 
 3
@@ -285,6 +291,7 @@ Enter the Bus type:
 Ac
 
 Bus details inserted successfully !
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
@@ -593,6 +600,7 @@ The number of ticket u want to book
 choose yes or no
 
 no
+
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
@@ -628,6 +636,7 @@ Enter the customer id
 The ticket details is 
 
 ========================================================
+
 Customer id is : 115
 
 Customer name is : akshay
@@ -653,6 +662,7 @@ Bus contact person is : ranjan
 Bus contact person mobile no is : 123659452
 
 Bus type is : Ac
+
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 Choose the options to continue-
