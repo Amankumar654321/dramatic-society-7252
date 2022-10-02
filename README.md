@@ -56,7 +56,7 @@ foreign key(Tbid) references Bus(bid) on delete cascade
 
 ![image](https://user-images.githubusercontent.com/101914524/193448227-f9f97a84-84ab-4bb5-a792-fa7475ab82da.png)
 
-Output of the Application in the client Side------>
+# Output of the Application in the client Side------>
 
 Welcome to Bus Ticketing system
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
